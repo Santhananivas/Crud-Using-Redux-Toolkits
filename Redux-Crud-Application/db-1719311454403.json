@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Nivas",
+      "email": "nivas@1234gmail.com",
+      "roll": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Vincent",
+      "email": "vincent@1234gmail.com",
+      "roll": "Employee"
+    },
+    {
+      "id": 3,
+      "name": "Kumar",
+      "email": "Kumar@1234gmail.com",
+      "roll": "Client"
+    },
+    {
+      "id": 4,
+      "name": "Prem",
+      "email": "prem@1234gmail.com",
+      "roll": "Employee"
+    },
+    {
+      "id": 5,
+      "name": "Edison",
+      "email": "Edi@1234gmail.com",
+      "roll": "Client"
+    },
+    {
+      "id": 6,
+      "name": "Viswa",
+      "email": "viswa@1234gmail.com",
+      "roll": "Employee"
+    },
+    {
+      "id": 7,
+      "name": "Charless",
+      "email": "charless@1234gmail.com",
+      "roll": "Employee"
+    }
+  ]
+}
